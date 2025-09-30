@@ -6,8 +6,8 @@ html {
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #1a202c; /* 深色背景 */
-    color: #f7fafc; /* 淺色文字 */
+    background-color: #df198c; /* 深色背景 */
+    color: #72a80e; /* 淺色文字 */
     line-height: 1.6;
 }
 
@@ -64,7 +64,7 @@ a:hover {
 }
 
 .navbar ul li a {
-    color: #f7fafc;
+    color: #d33f1a;
     font-weight: 700;
     font-size: 1.1em;
     padding: 5px 0;
