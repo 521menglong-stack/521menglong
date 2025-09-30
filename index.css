@@ -34,7 +34,7 @@ a:hover {
 
 /* 導覽列 (Navbar) */
 .navbar {
-    background-color: #2d3748; /* 卡片背景色，作為導覽列背景 */
+    background-color: #ce1049; /* 卡片背景色，作為導覽列背景 */
     padding: 15px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
